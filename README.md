@@ -11,4 +11,4 @@ This project implements a Sudoku solver application using Python and Tkinter GUI
 
 This project is a simple yet effective implementation of a Sudoku solver, providing a convenient tool for solving Sudoku puzzles interactively.
 
-Feel free to contribute, report issues, or suggest enhancements!
+Feel free to report issues or suggest enhancements!

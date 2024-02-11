@@ -1,3 +1,5 @@
+// Sudoku Solver JavaScript equivalent of main.py for the live demo on my website
+
 document.addEventListener("DOMContentLoaded", function() {
     const grid = document.getElementById("grid");
     const solveBtn = document.getElementById("solveBtn");

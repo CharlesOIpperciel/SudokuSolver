@@ -12,3 +12,6 @@ This project presents a Sudoku solver application built using Python and the Tki
 
 This project offers a simple yet efficient implementation of a Sudoku solver, serving as a handy tool for interactive puzzle-solving.
 
+## Contact
+
+For inquiries or questions, please contact: ippc2001@usherbrooke.ca

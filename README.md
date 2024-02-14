@@ -1,14 +1,14 @@
 # Sudoku Solver
-**JavaScript version will also be available on my website @ CharlesOIpperciel.github.io for demonstration purposes.**
 
-This project implements a Sudoku solver application using Python and Tkinter GUI library. Sudoku Solver allows users to input a Sudoku puzzle through a graphical interface and provides functionality to solve the puzzle automatically. It includes features such as:
+**JavaScript version also available on my website [@CharlesOIpperciel.github.io](https://CharlesOIpperciel.github.io) for demonstration purposes.**
 
-- User-friendly graphical interface with a 9x9 grid for inputting Sudoku puzzles.
-- Ability to solve valid Sudoku puzzles using a backtracking algorithm.
-- Validation of user-inputted Sudoku puzzles to ensure they are solvable and valid.
-- Option to clear the grid and input a new Sudoku puzzle.
-- Displays an alert message if the inputted Sudoku puzzle is invalid.
+This project presents a Sudoku solver application built using Python and the Tkinter GUI library. Sudoku Solver offers users the ability to input a Sudoku puzzle via a graphical interface and provides functionality to automatically solve the puzzle. Key features include:
 
-This project is a simple yet effective implementation of a Sudoku solver, providing a convenient tool for solving Sudoku puzzles interactively.
+- **User-friendly Interface**: Graphical interface with a 9x9 grid for easy input of Sudoku puzzles.
+- **Automatic Solving**: Utilizes a backtracking algorithm to solve valid Sudoku puzzles.
+- **Input Validation**: Validates user-inputted Sudoku puzzles to ensure solvability and validity.
+- **Grid Clearing**: Option to clear the grid and input a new Sudoku puzzle.
+- **Error Handling**: Alerts users with a message if the inputted Sudoku puzzle is invalid.
 
-Feel free to report issues or suggest enhancements!
+This project offers a simple yet efficient implementation of a Sudoku solver, serving as a handy tool for interactive puzzle-solving.
+

@@ -14,4 +14,4 @@ This project offers a simple yet efficient implementation of a Sudoku solver, se
 
 ## Contact
 
-For inquiries or questions, please contact: ippc2001@usherbrooke.ca
+For questions, please contact: ippc2001@usherbrooke.ca

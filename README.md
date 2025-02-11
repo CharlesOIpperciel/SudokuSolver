@@ -1,7 +1,5 @@
 # Sudoku Solver
 
-**JavaScript version also available on my website [@CharlesOIpperciel.github.io](https://CharlesOIpperciel.github.io) for demonstration purposes.**
-
 This project presents a Sudoku solver application built using Python and the Tkinter GUI library. Sudoku Solver offers users the ability to input a Sudoku puzzle via a graphical interface and provides functionality to automatically solve the puzzle. Key features include:
 
 - **User-friendly Interface**: Graphical interface with a 9x9 grid for easy input of Sudoku puzzles.
@@ -14,4 +12,4 @@ This project offers a simple yet efficient implementation of a Sudoku solver, se
 
 ## Contact
 
-For questions, please contact: ippc2001@usherbrooke.ca
+For questions, please contact: charlesolivieripperciel@gmail.com

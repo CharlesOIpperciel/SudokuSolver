@@ -1,4 +1,4 @@
-# Sudoku Solver
+# Sudoku Solver #️⃣
 
 This project presents a Sudoku solver application built using Python and the Tkinter GUI library. Sudoku Solver offers users the ability to input a Sudoku puzzle via a graphical interface and provides functionality to automatically solve the puzzle. Key features include:
 
